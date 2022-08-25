@@ -10,7 +10,9 @@ The user plays against an AI player that chooses its next best move based on whe
 
 In order to play against the computer, the user must select a viable spot on the board or else nothing will happen. The user will continue to play against the computer until there are no possible moves. Once the game is over, the board will fill up with the pieces of the color of the winner.
 
+In order to run this program, you must have a Java supporting IDE (i.e. Eclipse or IntelliJ Idea). 
 
+This program was created for my Computer Science 2 (Java) course at Colorado College
 
 
 
